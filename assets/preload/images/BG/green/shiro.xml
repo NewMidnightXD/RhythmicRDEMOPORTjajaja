@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shiro.png">
+	
+	
+	<SubTexture name="stand 10000" x="5" y="5" width="147" height="333" frameX="0" frameY="-8" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10001" x="5" y="5" width="147" height="333" frameX="0" frameY="-8" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10002" x="157" y="5" width="146" height="335" frameX="-1" frameY="-7" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10003" x="157" y="5" width="146" height="335" frameX="-1" frameY="-7" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10004" x="308" y="5" width="148" height="341" frameX="-4" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10005" x="308" y="5" width="148" height="341" frameX="-4" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10006" x="461" y="5" width="148" height="341" frameX="-5" frameY="0" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10007" x="461" y="5" width="148" height="341" frameX="-5" frameY="0" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10008" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10009" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10010" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10011" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10012" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10013" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10014" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10015" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10016" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10017" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10018" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10019" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10020" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10021" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10022" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+	<SubTexture name="stand 10023" x="615" y="5" width="148" height="341" frameX="-5" frameY="-1" frameWidth="153" frameHeight="341" />
+</TextureAtlas>
